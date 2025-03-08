@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "What's this?"
+title: "Hi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is a blank bord.
+This is Janus Liou.
