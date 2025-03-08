@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is blank bord.
+This is a blank bord.
