@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Janus Liou / Math homepage"
+title                    : "Janus / Math homepage"
 title_separator          : "-"
 name                     : &name "Janus Liou"
 description              : &description "It's just me"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Avatar/One.jpg"
+  avatar           : "Avatar/Anon.png"
   name             : "Jan"
   pronouns         : # example: "she/her"  
   bio              : "Veni de Ĉinio"
